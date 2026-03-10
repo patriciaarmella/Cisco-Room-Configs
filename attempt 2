@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+
+  <Conference>
+    <DefaultCall>
+      <Protocol>Auto</Protocol>
+      <Rate>6000</Rate>
+      <Webex>
+        <Rate>20000</Rate>
+      </Webex>
+    </DefaultCall>
+  </Conference>
+
+  <NetworkServices>
+    <SIP>
+      <Mode>On</Mode>
+    </SIP>
+  </NetworkServices>
+
+  <SIP>
+    <Authentication>
+      <Password>ira0qxNPu7qWbVS3</Password>
+      <UserName>7fd0b2bb4d7a4894d1f2403d4c8c</UserName>
+    </Authentication>
+    <DefaultTransport>TCP</DefaultTransport>
+    <DisplayName>Fawcett</DisplayName>
+    <Proxy item="1">
+      <Address>sip.us-east-1.prod.n2p.io:6070</Address>
+    </Proxy>
+    <TlsVerify>Off</TlsVerify>
+    <URI>sip:7fd0b2bb4d7a4894d1f2403d4c8c@sip.us-east-1.prod.n2p.io</URI>
+  </SIP>
+
+</Configuration>
