@@ -1,0 +1,2226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration product="Cisco Codec" version="ce26.4.1.4.1babdcee767" apiVersion="4">
+<Apps>
+<WallpaperBundles>
+<HalfwakeImage valueSpaceRef="/Valuespace/TTPAR_AutoOff">Auto</HalfwakeImage>
+</WallpaperBundles>
+</Apps>
+<Audio>
+<DefaultVolume valueSpaceRef="/Valuespace/INT_0_100">50</DefaultVolume>
+<Input>
+<Ethernet item="1" maxOccurrence="8">
+<Channel item="1" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="2" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="3" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="4" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="5" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="6" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="7" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="8" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<EchoControl>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<NoiseReduction valueSpaceRef="/Valuespace/TTPAR_OnOff">On</NoiseReduction>
+</EchoControl>
+<Equalizer>
+<ID valueSpaceRef="/Valuespace/TTPAR_AudioEqualizerUserdefined">1</ID>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+</Equalizer>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</Ethernet>
+<Ethernet item="2" maxOccurrence="8">
+<Channel item="1" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="2" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="3" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="4" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="5" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="6" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="7" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="8" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<EchoControl>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<NoiseReduction valueSpaceRef="/Valuespace/TTPAR_OnOff">On</NoiseReduction>
+</EchoControl>
+<Equalizer>
+<ID valueSpaceRef="/Valuespace/TTPAR_AudioEqualizerUserdefined">1</ID>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+</Equalizer>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</Ethernet>
+<Ethernet item="3" maxOccurrence="8">
+<Channel item="1" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="2" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="3" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="4" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="5" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="6" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="7" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="8" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<EchoControl>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<NoiseReduction valueSpaceRef="/Valuespace/TTPAR_OnOff">On</NoiseReduction>
+</EchoControl>
+<Equalizer>
+<ID valueSpaceRef="/Valuespace/TTPAR_AudioEqualizerUserdefined">1</ID>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+</Equalizer>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</Ethernet>
+<Ethernet item="4" maxOccurrence="8">
+<Channel item="1" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="2" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="3" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="4" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="5" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="6" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="7" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="8" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<EchoControl>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<NoiseReduction valueSpaceRef="/Valuespace/TTPAR_OnOff">On</NoiseReduction>
+</EchoControl>
+<Equalizer>
+<ID valueSpaceRef="/Valuespace/TTPAR_AudioEqualizerUserdefined">1</ID>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+</Equalizer>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</Ethernet>
+<Ethernet item="5" maxOccurrence="8">
+<Channel item="1" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="2" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="3" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="4" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="5" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="6" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="7" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="8" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<EchoControl>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<NoiseReduction valueSpaceRef="/Valuespace/TTPAR_OnOff">On</NoiseReduction>
+</EchoControl>
+<Equalizer>
+<ID valueSpaceRef="/Valuespace/TTPAR_AudioEqualizerUserdefined">1</ID>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+</Equalizer>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</Ethernet>
+<Ethernet item="6" maxOccurrence="8">
+<Channel item="1" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="2" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="3" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="4" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="5" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="6" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="7" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="8" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<EchoControl>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<NoiseReduction valueSpaceRef="/Valuespace/TTPAR_OnOff">On</NoiseReduction>
+</EchoControl>
+<Equalizer>
+<ID valueSpaceRef="/Valuespace/TTPAR_AudioEqualizerUserdefined">1</ID>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+</Equalizer>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</Ethernet>
+<Ethernet item="7" maxOccurrence="8">
+<Channel item="1" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="2" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="3" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="4" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="5" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="6" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="7" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="8" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<EchoControl>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<NoiseReduction valueSpaceRef="/Valuespace/TTPAR_OnOff">On</NoiseReduction>
+</EchoControl>
+<Equalizer>
+<ID valueSpaceRef="/Valuespace/TTPAR_AudioEqualizerUserdefined">1</ID>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+</Equalizer>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</Ethernet>
+<Ethernet item="8" maxOccurrence="8">
+<Channel item="1" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="2" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="3" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="4" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="5" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="6" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="7" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<Channel item="8" maxOccurrence="8">
+<Gain valueSpaceRef="/Valuespace/INT_0_70">45</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Pan valueSpaceRef="/Valuespace/TTPAR_StereoMode">Mono</Pan>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Channel>
+<EchoControl>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<NoiseReduction valueSpaceRef="/Valuespace/TTPAR_OnOff">On</NoiseReduction>
+</EchoControl>
+<Equalizer>
+<ID valueSpaceRef="/Valuespace/TTPAR_AudioEqualizerUserdefined">1</ID>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+</Equalizer>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</Ethernet>
+<HDMI item="1" maxOccurrence="1">
+<Gain valueSpaceRef="/Valuespace/INT_-24_0">-5</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<VideoAssociation>
+<MuteOnInactiveVideo valueSpaceRef="/Valuespace/TTPAR_OnOff">On</MuteOnInactiveVideo>
+</VideoAssociation>
+</HDMI>
+<Microphone item="1" maxOccurrence="3">
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Microphone>
+<Microphone item="2" maxOccurrence="3">
+<EchoControl>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<NoiseReduction valueSpaceRef="/Valuespace/TTPAR_OnOff">On</NoiseReduction>
+</EchoControl>
+<Gain valueSpaceRef="/Valuespace/INT_0_24">20</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Microphone>
+<Microphone item="3" maxOccurrence="3">
+<EchoControl>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<NoiseReduction valueSpaceRef="/Valuespace/TTPAR_OnOff">On</NoiseReduction>
+</EchoControl>
+<Gain valueSpaceRef="/Valuespace/INT_0_24">20</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</Microphone>
+<USBC item="1" maxOccurrence="1">
+<Gain valueSpaceRef="/Valuespace/INT_-24_0">-5</Gain>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<VideoAssociation>
+<MuteOnInactiveVideo valueSpaceRef="/Valuespace/TTPAR_OnOff">On</MuteOnInactiveVideo>
+</VideoAssociation>
+</USBC>
+<USBMicrophone item="1" maxOccurrence="1">
+<EchoControl>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</EchoControl>
+<Gain valueSpaceRef="/Valuespace/INT_0_24">5</Gain>
+<Zone valueSpaceRef="/Valuespace/INT_1_3">1</Zone>
+</USBMicrophone>
+</Input>
+<Microphones>
+<AGC valueSpaceRef="/Valuespace/TTPAR_OnOff">On</AGC>
+<BeamMix>
+<Inputs valueSpaceRef="/Valuespace/TTPAR_AudioBeamMixInputs">Auto</Inputs>
+</BeamMix>
+<Mute>
+<Enabled valueSpaceRef="/Valuespace/TTPAR_MuteEnabled">True</Enabled>
+</Mute>
+<NearTalkerSector>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+</NearTalkerSector>
+<NoiseRemoval>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AudioNoiseRemovalMode">Enabled</Mode>
+</NoiseRemoval>
+<PhantomPower valueSpaceRef="/Valuespace/TTPAR_OnOff">On</PhantomPower>
+<UsbPassthrough>
+<MuteButton valueSpaceRef="/Valuespace/TTPAR_ActiveInactive">Active</MuteButton>
+</UsbPassthrough>
+<VoiceActivityDetector>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+</VoiceActivityDetector>
+</Microphones>
+<Output>
+<Ethernet item="1" maxOccurrence="1">
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</Ethernet>
+<InternalSpeaker>
+<Mode valueSpaceRef="/Valuespace/TTPAR_InternalSpeakerMode">On</Mode>
+</InternalSpeaker>
+<Line item="1" maxOccurrence="1">
+<Format valueSpaceRef="/Valuespace/TTPAR_MinijackFormat">Stereo</Format>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<OutputType valueSpaceRef="/Valuespace/TTPAR_DefaultLineOutType">Loudspeaker</OutputType>
+</Line>
+</Output>
+<Panning>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AudioPanningMode">Auto</Mode>
+</Panning>
+<Placement valueSpaceRef="/Valuespace/TTPAR_DevicePlacement">Wallmount</Placement>
+<SoundsAndAlerts>
+<DTMFFeedback valueSpaceRef="/Valuespace/TTPAR_OnOff">On</DTMFFeedback>
+<RingTone valueSpaceRef="/Valuespace/STR_1_100_Ringtone">Sunrise</RingTone>
+<RingVolume valueSpaceRef="/Valuespace/INT_0_100">50</RingVolume>
+</SoundsAndAlerts>
+<USB>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AudioModeUSB">SpeakerAndMicrophone</Mode>
+<VolumeControl>
+<Capture>
+<Mode valueSpaceRef="/Valuespace/TTPAR_BypassActive">Bypass</Mode>
+<Value valueSpaceRef="/Valuespace/INT_-100_100">0</Value>
+</Capture>
+<Playback>
+<Mode valueSpaceRef="/Valuespace/TTPAR_BypassActive">Bypass</Mode>
+<Value valueSpaceRef="/Valuespace/INT_-100_100">0</Value>
+</Playback>
+</VolumeControl>
+</USB>
+<Ultrasound>
+<MaxVolume valueSpaceRef="/Valuespace/INT_0_70">70</MaxVolume>
+</Ultrasound>
+</Audio>
+<BYOD>
+<QRCodePairing valueSpaceRef="/Valuespace/TTPAR_EnabledDisabled">Enabled</QRCodePairing>
+<USBCXapi valueSpaceRef="/Valuespace/TTPAR_EnabledDisabled">Enabled</USBCXapi>
+</BYOD>
+<Bluetooth>
+<Allowed valueSpaceRef="/Valuespace/TTPAR_TrueFalse">True</Allowed>
+<Enabled valueSpaceRef="/Valuespace/TTPAR_TrueFalse">False</Enabled>
+</Bluetooth>
+<Bookings>
+<AdhocBooking>
+<BookAhead>
+<Enabled valueSpaceRef="/Valuespace/TTPAR_TrueFalse">False</Enabled>
+</BookAhead>
+<BookingTimeout valueSpaceRef="/Valuespace/INT_60_300">60</BookingTimeout>
+<Enabled valueSpaceRef="/Valuespace/TTPAR_TrueFalse">False</Enabled>
+</AdhocBooking>
+<AllowDecline valueSpaceRef="/Valuespace/TTPAR_AllowDeclineVs">All</AllowDecline>
+<CheckIn>
+<AutoCheckInDuration valueSpaceRef="/Valuespace/INT_8_24">8</AutoCheckInDuration>
+<Enabled valueSpaceRef="/Valuespace/TTPAR_TrueFalse">False</Enabled>
+<WindowDuration valueSpaceRef="/Valuespace/TTPAR_WindowDuration">10</WindowDuration>
+</CheckIn>
+<DeclinableBookingType valueSpaceRef="/Valuespace/TTPAR_DeclinableBookingTypeVs">AdhocOnly</DeclinableBookingType>
+<MaxDuration valueSpaceRef="/Valuespace/INT_0_24">0</MaxDuration>
+<ProtocolPriority valueSpaceRef="/Valuespace/TTPAR_ProtocolPriority">Auto</ProtocolPriority>
+</Bookings>
+<CallHistory>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Recents>
+<DisplayName valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</DisplayName>
+</Recents>
+</CallHistory>
+<Cameras>
+<Camera item="1" maxOccurrence="15">
+<Brightness>
+<DefaultLevel valueSpaceRef="/Valuespace/INT_1_31">20</DefaultLevel>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Brightness>
+<ExcludedArea valueSpaceRef="/Valuespace/STR_0_255_NoFilt"/>
+<Whitebalance>
+<Compensation>
+<Level valueSpaceRef="/Valuespace/INT_-3_3">0</Level>
+</Compensation>
+</Whitebalance>
+</Camera>
+<Camera item="2" maxOccurrence="15">
+<AssignedSerialNumber valueSpaceRef="/Valuespace/STR_0_20_NoFilt"/>
+<Backlight>
+<DefaultMode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</DefaultMode>
+</Backlight>
+<Brightness>
+<Algorithm valueSpaceRef="/Valuespace/TTPAR_AutoFaceAverage">Auto</Algorithm>
+<DefaultLevel valueSpaceRef="/Valuespace/INT_1_31">20</DefaultLevel>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Brightness>
+<Flip valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Flip>
+<Focus>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Focus>
+<Gamma>
+<Level valueSpaceRef="/Valuespace/INT_0_14">0</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Gamma>
+<IrCutFilter>
+<Mode valueSpaceRef="/Valuespace/TTPAR_IrCutFilterMode">Day</Mode>
+<Threshold valueSpaceRef="/Valuespace/INT_0_255">14</Threshold>
+</IrCutFilter>
+<Mirror valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Mirror>
+<Standby>
+<Mode valueSpaceRef="/Valuespace/TTPAR_CameraStandbyMode">Enabled</Mode>
+</Standby>
+<VideoFormat valueSpaceRef="/Valuespace/TTPAR_ExternalCameraVideoFormat">1920_1080_60</VideoFormat>
+<Whitebalance>
+<Level valueSpaceRef="/Valuespace/INT_1_16">1</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Whitebalance>
+</Camera>
+<Camera item="3" maxOccurrence="15">
+<AssignedSerialNumber valueSpaceRef="/Valuespace/STR_0_20_NoFilt"/>
+<Backlight>
+<DefaultMode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</DefaultMode>
+</Backlight>
+<Brightness>
+<Algorithm valueSpaceRef="/Valuespace/TTPAR_AutoFaceAverage">Auto</Algorithm>
+<DefaultLevel valueSpaceRef="/Valuespace/INT_1_31">20</DefaultLevel>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Brightness>
+<Flip valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Flip>
+<Focus>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Focus>
+<Gamma>
+<Level valueSpaceRef="/Valuespace/INT_0_14">0</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Gamma>
+<IrCutFilter>
+<Mode valueSpaceRef="/Valuespace/TTPAR_IrCutFilterMode">Day</Mode>
+<Threshold valueSpaceRef="/Valuespace/INT_0_255">14</Threshold>
+</IrCutFilter>
+<Mirror valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Mirror>
+<Standby>
+<Mode valueSpaceRef="/Valuespace/TTPAR_CameraStandbyMode">Enabled</Mode>
+</Standby>
+<VideoFormat valueSpaceRef="/Valuespace/TTPAR_ExternalCameraVideoFormat">1920_1080_60</VideoFormat>
+<Whitebalance>
+<Level valueSpaceRef="/Valuespace/INT_1_16">1</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Whitebalance>
+</Camera>
+<Camera item="4" maxOccurrence="15">
+<AssignedSerialNumber valueSpaceRef="/Valuespace/STR_0_20_NoFilt"/>
+<Backlight>
+<DefaultMode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</DefaultMode>
+</Backlight>
+<Brightness>
+<Algorithm valueSpaceRef="/Valuespace/TTPAR_AutoFaceAverage">Auto</Algorithm>
+<DefaultLevel valueSpaceRef="/Valuespace/INT_1_31">20</DefaultLevel>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Brightness>
+<Flip valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Flip>
+<Focus>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Focus>
+<Gamma>
+<Level valueSpaceRef="/Valuespace/INT_0_14">0</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Gamma>
+<IrCutFilter>
+<Mode valueSpaceRef="/Valuespace/TTPAR_IrCutFilterMode">Day</Mode>
+<Threshold valueSpaceRef="/Valuespace/INT_0_255">14</Threshold>
+</IrCutFilter>
+<Mirror valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Mirror>
+<Standby>
+<Mode valueSpaceRef="/Valuespace/TTPAR_CameraStandbyMode">Enabled</Mode>
+</Standby>
+<VideoFormat valueSpaceRef="/Valuespace/TTPAR_ExternalCameraVideoFormat">1920_1080_60</VideoFormat>
+<Whitebalance>
+<Level valueSpaceRef="/Valuespace/INT_1_16">1</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Whitebalance>
+</Camera>
+<Camera item="5" maxOccurrence="15">
+<AssignedSerialNumber valueSpaceRef="/Valuespace/STR_0_20_NoFilt"/>
+<Backlight>
+<DefaultMode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</DefaultMode>
+</Backlight>
+<Brightness>
+<Algorithm valueSpaceRef="/Valuespace/TTPAR_AutoFaceAverage">Auto</Algorithm>
+<DefaultLevel valueSpaceRef="/Valuespace/INT_1_31">20</DefaultLevel>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Brightness>
+<Flip valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Flip>
+<Focus>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Focus>
+<Gamma>
+<Level valueSpaceRef="/Valuespace/INT_0_14">0</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Gamma>
+<IrCutFilter>
+<Mode valueSpaceRef="/Valuespace/TTPAR_IrCutFilterMode">Day</Mode>
+<Threshold valueSpaceRef="/Valuespace/INT_0_255">14</Threshold>
+</IrCutFilter>
+<Mirror valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Mirror>
+<Standby>
+<Mode valueSpaceRef="/Valuespace/TTPAR_CameraStandbyMode">Enabled</Mode>
+</Standby>
+<VideoFormat valueSpaceRef="/Valuespace/TTPAR_ExternalCameraVideoFormat">1920_1080_60</VideoFormat>
+<Whitebalance>
+<Level valueSpaceRef="/Valuespace/INT_1_16">1</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Whitebalance>
+</Camera>
+<Camera item="6" maxOccurrence="15">
+<AssignedSerialNumber valueSpaceRef="/Valuespace/STR_0_20_NoFilt"/>
+<Backlight>
+<DefaultMode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</DefaultMode>
+</Backlight>
+<Brightness>
+<Algorithm valueSpaceRef="/Valuespace/TTPAR_AutoFaceAverage">Auto</Algorithm>
+<DefaultLevel valueSpaceRef="/Valuespace/INT_1_31">20</DefaultLevel>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Brightness>
+<Flip valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Flip>
+<Focus>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Focus>
+<Gamma>
+<Level valueSpaceRef="/Valuespace/INT_0_14">0</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Gamma>
+<IrCutFilter>
+<Mode valueSpaceRef="/Valuespace/TTPAR_IrCutFilterMode">Day</Mode>
+<Threshold valueSpaceRef="/Valuespace/INT_0_255">14</Threshold>
+</IrCutFilter>
+<Mirror valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Mirror>
+<Standby>
+<Mode valueSpaceRef="/Valuespace/TTPAR_CameraStandbyMode">Enabled</Mode>
+</Standby>
+<VideoFormat valueSpaceRef="/Valuespace/TTPAR_ExternalCameraVideoFormat">1920_1080_60</VideoFormat>
+<Whitebalance>
+<Level valueSpaceRef="/Valuespace/INT_1_16">1</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Whitebalance>
+</Camera>
+<Camera item="7" maxOccurrence="15">
+<AssignedSerialNumber valueSpaceRef="/Valuespace/STR_0_20_NoFilt"/>
+<Backlight>
+<DefaultMode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</DefaultMode>
+</Backlight>
+<Brightness>
+<Algorithm valueSpaceRef="/Valuespace/TTPAR_AutoFaceAverage">Auto</Algorithm>
+<DefaultLevel valueSpaceRef="/Valuespace/INT_1_31">20</DefaultLevel>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Brightness>
+<Flip valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Flip>
+<Focus>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Focus>
+<Gamma>
+<Level valueSpaceRef="/Valuespace/INT_0_14">0</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Gamma>
+<IrCutFilter>
+<Mode valueSpaceRef="/Valuespace/TTPAR_IrCutFilterMode">Day</Mode>
+<Threshold valueSpaceRef="/Valuespace/INT_0_255">14</Threshold>
+</IrCutFilter>
+<Mirror valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Mirror>
+<Standby>
+<Mode valueSpaceRef="/Valuespace/TTPAR_CameraStandbyMode">Enabled</Mode>
+</Standby>
+<VideoFormat valueSpaceRef="/Valuespace/TTPAR_ExternalCameraVideoFormat">1920_1080_60</VideoFormat>
+<Whitebalance>
+<Level valueSpaceRef="/Valuespace/INT_1_16">1</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Whitebalance>
+</Camera>
+<Camera item="8" maxOccurrence="15">
+<AssignedSerialNumber valueSpaceRef="/Valuespace/STR_0_20_NoFilt"/>
+<Backlight>
+<DefaultMode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</DefaultMode>
+</Backlight>
+<Brightness>
+<Algorithm valueSpaceRef="/Valuespace/TTPAR_AutoFaceAverage">Auto</Algorithm>
+<DefaultLevel valueSpaceRef="/Valuespace/INT_1_31">20</DefaultLevel>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Brightness>
+<Flip valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Flip>
+<Focus>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Focus>
+<Gamma>
+<Level valueSpaceRef="/Valuespace/INT_0_14">0</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Gamma>
+<IrCutFilter>
+<Mode valueSpaceRef="/Valuespace/TTPAR_IrCutFilterMode">Day</Mode>
+<Threshold valueSpaceRef="/Valuespace/INT_0_255">14</Threshold>
+</IrCutFilter>
+<Mirror valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Mirror>
+<Standby>
+<Mode valueSpaceRef="/Valuespace/TTPAR_CameraStandbyMode">Enabled</Mode>
+</Standby>
+<VideoFormat valueSpaceRef="/Valuespace/TTPAR_ExternalCameraVideoFormat">1920_1080_60</VideoFormat>
+<Whitebalance>
+<Level valueSpaceRef="/Valuespace/INT_1_16">1</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Whitebalance>
+</Camera>
+<Camera item="9" maxOccurrence="15">
+<AssignedSerialNumber valueSpaceRef="/Valuespace/STR_0_20_NoFilt"/>
+<Backlight>
+<DefaultMode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</DefaultMode>
+</Backlight>
+<Brightness>
+<Algorithm valueSpaceRef="/Valuespace/TTPAR_AutoFaceAverage">Auto</Algorithm>
+<DefaultLevel valueSpaceRef="/Valuespace/INT_1_31">20</DefaultLevel>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Brightness>
+<Flip valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Flip>
+<Focus>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Focus>
+<Gamma>
+<Level valueSpaceRef="/Valuespace/INT_0_14">0</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Gamma>
+<IrCutFilter>
+<Mode valueSpaceRef="/Valuespace/TTPAR_IrCutFilterMode">Day</Mode>
+<Threshold valueSpaceRef="/Valuespace/INT_0_255">14</Threshold>
+</IrCutFilter>
+<Mirror valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Mirror>
+<Standby>
+<Mode valueSpaceRef="/Valuespace/TTPAR_CameraStandbyMode">Enabled</Mode>
+</Standby>
+<VideoFormat valueSpaceRef="/Valuespace/TTPAR_ExternalCameraVideoFormat">1920_1080_60</VideoFormat>
+<Whitebalance>
+<Level valueSpaceRef="/Valuespace/INT_1_16">1</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Whitebalance>
+</Camera>
+<Camera item="10" maxOccurrence="15">
+<AssignedSerialNumber valueSpaceRef="/Valuespace/STR_0_20_NoFilt"/>
+<Backlight>
+<DefaultMode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</DefaultMode>
+</Backlight>
+<Brightness>
+<Algorithm valueSpaceRef="/Valuespace/TTPAR_AutoFaceAverage">Auto</Algorithm>
+<DefaultLevel valueSpaceRef="/Valuespace/INT_1_31">20</DefaultLevel>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Brightness>
+<Flip valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Flip>
+<Focus>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Focus>
+<Gamma>
+<Level valueSpaceRef="/Valuespace/INT_0_14">0</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Gamma>
+<IrCutFilter>
+<Mode valueSpaceRef="/Valuespace/TTPAR_IrCutFilterMode">Day</Mode>
+<Threshold valueSpaceRef="/Valuespace/INT_0_255">14</Threshold>
+</IrCutFilter>
+<Mirror valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Mirror>
+<Standby>
+<Mode valueSpaceRef="/Valuespace/TTPAR_CameraStandbyMode">Enabled</Mode>
+</Standby>
+<VideoFormat valueSpaceRef="/Valuespace/TTPAR_ExternalCameraVideoFormat">1920_1080_60</VideoFormat>
+<Whitebalance>
+<Level valueSpaceRef="/Valuespace/INT_1_16">1</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Whitebalance>
+</Camera>
+<Camera item="11" maxOccurrence="15">
+<AssignedSerialNumber valueSpaceRef="/Valuespace/STR_0_20_NoFilt"/>
+<Backlight>
+<DefaultMode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</DefaultMode>
+</Backlight>
+<Brightness>
+<Algorithm valueSpaceRef="/Valuespace/TTPAR_AutoFaceAverage">Auto</Algorithm>
+<DefaultLevel valueSpaceRef="/Valuespace/INT_1_31">20</DefaultLevel>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Brightness>
+<Flip valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Flip>
+<Focus>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Focus>
+<Gamma>
+<Level valueSpaceRef="/Valuespace/INT_0_14">0</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Gamma>
+<IrCutFilter>
+<Mode valueSpaceRef="/Valuespace/TTPAR_IrCutFilterMode">Day</Mode>
+<Threshold valueSpaceRef="/Valuespace/INT_0_255">14</Threshold>
+</IrCutFilter>
+<Mirror valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Mirror>
+<Standby>
+<Mode valueSpaceRef="/Valuespace/TTPAR_CameraStandbyMode">Enabled</Mode>
+</Standby>
+<VideoFormat valueSpaceRef="/Valuespace/TTPAR_ExternalCameraVideoFormat">1920_1080_60</VideoFormat>
+<Whitebalance>
+<Level valueSpaceRef="/Valuespace/INT_1_16">1</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Whitebalance>
+</Camera>
+<Camera item="12" maxOccurrence="15">
+<AssignedSerialNumber valueSpaceRef="/Valuespace/STR_0_20_NoFilt"/>
+<Backlight>
+<DefaultMode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</DefaultMode>
+</Backlight>
+<Brightness>
+<Algorithm valueSpaceRef="/Valuespace/TTPAR_AutoFaceAverage">Auto</Algorithm>
+<DefaultLevel valueSpaceRef="/Valuespace/INT_1_31">20</DefaultLevel>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Brightness>
+<Flip valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Flip>
+<Focus>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Focus>
+<Gamma>
+<Level valueSpaceRef="/Valuespace/INT_0_14">0</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Gamma>
+<IrCutFilter>
+<Mode valueSpaceRef="/Valuespace/TTPAR_IrCutFilterMode">Day</Mode>
+<Threshold valueSpaceRef="/Valuespace/INT_0_255">14</Threshold>
+</IrCutFilter>
+<Mirror valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Mirror>
+<Standby>
+<Mode valueSpaceRef="/Valuespace/TTPAR_CameraStandbyMode">Enabled</Mode>
+</Standby>
+<VideoFormat valueSpaceRef="/Valuespace/TTPAR_ExternalCameraVideoFormat">1920_1080_60</VideoFormat>
+<Whitebalance>
+<Level valueSpaceRef="/Valuespace/INT_1_16">1</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Whitebalance>
+</Camera>
+<Camera item="13" maxOccurrence="15">
+<AssignedSerialNumber valueSpaceRef="/Valuespace/STR_0_20_NoFilt"/>
+<Backlight>
+<DefaultMode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</DefaultMode>
+</Backlight>
+<Brightness>
+<Algorithm valueSpaceRef="/Valuespace/TTPAR_AutoFaceAverage">Auto</Algorithm>
+<DefaultLevel valueSpaceRef="/Valuespace/INT_1_31">20</DefaultLevel>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Brightness>
+<Flip valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Flip>
+<Focus>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Focus>
+<Gamma>
+<Level valueSpaceRef="/Valuespace/INT_0_14">0</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Gamma>
+<IrCutFilter>
+<Mode valueSpaceRef="/Valuespace/TTPAR_IrCutFilterMode">Day</Mode>
+<Threshold valueSpaceRef="/Valuespace/INT_0_255">14</Threshold>
+</IrCutFilter>
+<Mirror valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Mirror>
+<Standby>
+<Mode valueSpaceRef="/Valuespace/TTPAR_CameraStandbyMode">Enabled</Mode>
+</Standby>
+<VideoFormat valueSpaceRef="/Valuespace/TTPAR_ExternalCameraVideoFormat">1920_1080_60</VideoFormat>
+<Whitebalance>
+<Level valueSpaceRef="/Valuespace/INT_1_16">1</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Whitebalance>
+</Camera>
+<Camera item="14" maxOccurrence="15">
+<AssignedSerialNumber valueSpaceRef="/Valuespace/STR_0_20_NoFilt"/>
+<Backlight>
+<DefaultMode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</DefaultMode>
+</Backlight>
+<Brightness>
+<Algorithm valueSpaceRef="/Valuespace/TTPAR_AutoFaceAverage">Auto</Algorithm>
+<DefaultLevel valueSpaceRef="/Valuespace/INT_1_31">20</DefaultLevel>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Brightness>
+<Flip valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Flip>
+<Focus>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Focus>
+<Gamma>
+<Level valueSpaceRef="/Valuespace/INT_0_14">0</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Gamma>
+<IrCutFilter>
+<Mode valueSpaceRef="/Valuespace/TTPAR_IrCutFilterMode">Day</Mode>
+<Threshold valueSpaceRef="/Valuespace/INT_0_255">14</Threshold>
+</IrCutFilter>
+<Mirror valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Mirror>
+<Standby>
+<Mode valueSpaceRef="/Valuespace/TTPAR_CameraStandbyMode">Enabled</Mode>
+</Standby>
+<VideoFormat valueSpaceRef="/Valuespace/TTPAR_ExternalCameraVideoFormat">1920_1080_60</VideoFormat>
+<Whitebalance>
+<Level valueSpaceRef="/Valuespace/INT_1_16">1</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Whitebalance>
+</Camera>
+<Camera item="15" maxOccurrence="15">
+<AssignedSerialNumber valueSpaceRef="/Valuespace/STR_0_20_NoFilt"/>
+<Backlight>
+<DefaultMode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</DefaultMode>
+</Backlight>
+<Brightness>
+<Algorithm valueSpaceRef="/Valuespace/TTPAR_AutoFaceAverage">Auto</Algorithm>
+<DefaultLevel valueSpaceRef="/Valuespace/INT_1_31">20</DefaultLevel>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Brightness>
+<Flip valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Flip>
+<Focus>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Focus>
+<Gamma>
+<Level valueSpaceRef="/Valuespace/INT_0_14">0</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Gamma>
+<IrCutFilter>
+<Mode valueSpaceRef="/Valuespace/TTPAR_IrCutFilterMode">Day</Mode>
+<Threshold valueSpaceRef="/Valuespace/INT_0_255">14</Threshold>
+</IrCutFilter>
+<Mirror valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Mirror>
+<Standby>
+<Mode valueSpaceRef="/Valuespace/TTPAR_CameraStandbyMode">Enabled</Mode>
+</Standby>
+<VideoFormat valueSpaceRef="/Valuespace/TTPAR_ExternalCameraVideoFormat">1920_1080_60</VideoFormat>
+<Whitebalance>
+<Level valueSpaceRef="/Valuespace/INT_1_16">1</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Whitebalance>
+</Camera>
+<PowerLine>
+<Frequency valueSpaceRef="/Valuespace/TTPAR_PowerLineFrequency">Auto</Frequency>
+</PowerLine>
+<PresenterTrack>
+<CameraPosition>
+<Pan valueSpaceRef="/Valuespace/INT_-65535_65535">0</Pan>
+<Tilt valueSpaceRef="/Valuespace/INT_-65535_65535">0</Tilt>
+<Zoom valueSpaceRef="/Valuespace/INT_-65535_65535">0</Zoom>
+</CameraPosition>
+<Connector valueSpaceRef="/Valuespace/INT_2_2">2</Connector>
+<Enabled valueSpaceRef="/Valuespace/TTPAR_TrueFalse">False</Enabled>
+<PresenterDetectedStatus valueSpaceRef="/Valuespace/TTPAR_EnabledDisabled">Enabled</PresenterDetectedStatus>
+<TriggerZone valueSpaceRef="/Valuespace/STR_0_255_NoFilt"/>
+</PresenterTrack>
+<SpeakerTrack>
+<AudioTracking>
+<Sources>
+<Camera valueSpaceRef="/Valuespace/TTPAR_AutoOff">Auto</Camera>
+<CeilingMicrophone valueSpaceRef="/Valuespace/TTPAR_AutoOff">Auto</CeilingMicrophone>
+<TableMicrophone valueSpaceRef="/Valuespace/TTPAR_AutoOff">Auto</TableMicrophone>
+</Sources>
+</AudioTracking>
+<Closeup valueSpaceRef="/Valuespace/TTPAR_AutoOnOff">Auto</Closeup>
+<DefaultBehavior valueSpaceRef="/Valuespace/TTPAR_SpeakerTrackBehaviorNoDesktop">Auto</DefaultBehavior>
+<Frames>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoOff">Auto</Mode>
+<RowConfiguration valueSpaceRef="/Valuespace/TTPAR_FramesRowConfiguration">SingleRow</RowConfiguration>
+</Frames>
+<GroupAndSpeaker>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoOff">Auto</Mode>
+</GroupAndSpeaker>
+<MeetingZone>
+<Area valueSpaceRef="/Valuespace/STR_0_255_NoFilt"/>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoOff">Off</Mode>
+</MeetingZone>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoOff">Auto</Mode>
+<Whiteboard>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+</Whiteboard>
+<ZoomRange>
+<MaxZoomFactor valueSpaceRef="/Valuespace/TTPAR_MaxZoomFactorIntegrated">Auto</MaxZoomFactor>
+</ZoomRange>
+</SpeakerTrack>
+<Stereoscopic>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+</Stereoscopic>
+</Cameras>
+<Conference>
+<ActiveMeetingTimeout valueSpaceRef="/Valuespace/INT_1_30">5</ActiveMeetingTimeout>
+<AutoAnswer>
+<Delay valueSpaceRef="/Valuespace/INT_0_50">0</Delay>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+<Mute valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mute>
+</AutoAnswer>
+<DefaultCall>
+<Protocol valueSpaceRef="/Valuespace/TTPAR_CallProtocol">Auto</Protocol>
+<Rate valueSpaceRef="/Valuespace/INT_64_6000">6000</Rate>
+<Webex>
+<Rate valueSpaceRef="/Valuespace/INT_0_20000">20000</Rate>
+</Webex>
+</DefaultCall>
+<Diagnostics>
+<DegradedQualityNotifications valueSpaceRef="/Valuespace/TTPAR_OnOff">On</DegradedQualityNotifications>
+<StreamStatusOverlay valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</StreamStatusOverlay>
+</Diagnostics>
+<DoNotDisturb>
+<DefaultTimeout valueSpaceRef="/Valuespace/INT_1_1440">60</DefaultTimeout>
+</DoNotDisturb>
+<EndToEndEncryption>
+<Identity>
+<PreferredDomain valueSpaceRef="/Valuespace/STR_0_255_NoFilt"/>
+</Identity>
+</EndToEndEncryption>
+<FarEndControl>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Mode>
+</FarEndControl>
+<HideNonVideo>
+<OnCall>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnCallMode">Inactive</Mode>
+</OnCall>
+</HideNonVideo>
+<JoinLeaveNotifications valueSpaceRef="/Valuespace/TTPAR_AlwaysNeverAuto">Auto</JoinLeaveNotifications>
+<MaxReceiveCallRate valueSpaceRef="/Valuespace/INT_64_20000">20000</MaxReceiveCallRate>
+<MaxTransmitCallRate valueSpaceRef="/Valuespace/INT_64_20000">20000</MaxTransmitCallRate>
+<MicUnmuteOnDisconnect>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</MicUnmuteOnDisconnect>
+<MultiStream>
+<ConsumeSynchronizedStage valueSpaceRef="/Valuespace/TTPAR_EnabledDisabled">Enabled</ConsumeSynchronizedStage>
+</MultiStream>
+<PeopleFocus>
+<OnCall>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnCallMode">Auto</Mode>
+</OnCall>
+</PeopleFocus>
+<Webex>
+<CallProtocolIPStack valueSpaceRef="/Valuespace/TTPAR_IpProtocolForWebex">IPv4</CallProtocolIPStack>
+</Webex>
+</Conference>
+<FacilityService>
+<Service item="1" maxOccurrence="5">
+<CallType valueSpaceRef="/Valuespace/TTPAR_MediaType">Video</CallType>
+<Name valueSpaceRef="/Valuespace/STR_0_1024_NoInvalidXmlChars">Live Support</Name>
+<Number valueSpaceRef="/Valuespace/STR_0_1024_NoInvalidXmlChars"/>
+<Type valueSpaceRef="/Valuespace/TTPAR_FacilityServiceType">Helpdesk</Type>
+</Service>
+<Service item="2" maxOccurrence="5">
+<CallType valueSpaceRef="/Valuespace/TTPAR_MediaType">Video</CallType>
+<Name valueSpaceRef="/Valuespace/STR_0_1024_NoInvalidXmlChars"/>
+<Number valueSpaceRef="/Valuespace/STR_0_1024_NoInvalidXmlChars"/>
+<Type valueSpaceRef="/Valuespace/TTPAR_FacilityServiceType">Helpdesk</Type>
+</Service>
+<Service item="3" maxOccurrence="5">
+<CallType valueSpaceRef="/Valuespace/TTPAR_MediaType">Video</CallType>
+<Name valueSpaceRef="/Valuespace/STR_0_1024_NoInvalidXmlChars"/>
+<Number valueSpaceRef="/Valuespace/STR_0_1024_NoInvalidXmlChars"/>
+<Type valueSpaceRef="/Valuespace/TTPAR_FacilityServiceType">Helpdesk</Type>
+</Service>
+<Service item="4" maxOccurrence="5">
+<CallType valueSpaceRef="/Valuespace/TTPAR_MediaType">Video</CallType>
+<Name valueSpaceRef="/Valuespace/STR_0_1024_NoInvalidXmlChars"/>
+<Number valueSpaceRef="/Valuespace/STR_0_1024_NoInvalidXmlChars"/>
+<Type valueSpaceRef="/Valuespace/TTPAR_FacilityServiceType">Helpdesk</Type>
+</Service>
+<Service item="5" maxOccurrence="5">
+<CallType valueSpaceRef="/Valuespace/TTPAR_MediaType">Video</CallType>
+<Name valueSpaceRef="/Valuespace/STR_0_1024_NoInvalidXmlChars"/>
+<Number valueSpaceRef="/Valuespace/STR_0_1024_NoInvalidXmlChars"/>
+<Type valueSpaceRef="/Valuespace/TTPAR_FacilityServiceType">Helpdesk</Type>
+</Service>
+</FacilityService>
+<Files>
+<EndSessionAction valueSpaceRef="/Valuespace/TTPAR_EndSessionAction">None</EndSessionAction>
+<Services>
+<OneDrive>
+<TemporaryPersonalSignIn valueSpaceRef="/Valuespace/TTPAR_EnabledDisabled">Enabled</TemporaryPersonalSignIn>
+</OneDrive>
+<Webex>
+<SaveToUser valueSpaceRef="/Valuespace/TTPAR_EnabledDisabled">Enabled</SaveToUser>
+<Spaces valueSpaceRef="/Valuespace/TTPAR_EnabledDisabled">Enabled</Spaces>
+</Webex>
+</Services>
+</Files>
+<HttpClient>
+<AllowHTTP valueSpaceRef="/Valuespace/TTPAR_TrueFalse">True</AllowHTTP>
+<AllowInsecureHTTPS valueSpaceRef="/Valuespace/TTPAR_TrueFalse">False</AllowInsecureHTTPS>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+<UseHttpProxy valueSpaceRef="/Valuespace/TTPAR_OnOff">On</UseHttpProxy>
+</HttpClient>
+<HttpFeedback>
+<TlsVerify valueSpaceRef="/Valuespace/TTPAR_OnOff">On</TlsVerify>
+<UseHttpProxy valueSpaceRef="/Valuespace/TTPAR_OnOff">On</UseHttpProxy>
+</HttpFeedback>
+<Logging>
+<External>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+<Protocol valueSpaceRef="/Valuespace/TTPAR_SyslogProtocol">SyslogTLS</Protocol>
+<Server>
+<Address valueSpaceRef="/Valuespace/STR_0_255_IPorHostname"/>
+<Port valueSpaceRef="/Valuespace/INT_0_65535">514</Port>
+</Server>
+<TlsVerify valueSpaceRef="/Valuespace/TTPAR_OnOff">On</TlsVerify>
+</External>
+<Internal>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</Internal>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</Logging>
+<Macros>
+<AutoStart valueSpaceRef="/Valuespace/TTPAR_OnOff">On</AutoStart>
+<Diagnostics>
+<JavascriptErrors valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</JavascriptErrors>
+</Diagnostics>
+<EvaluateTranspiled valueSpaceRef="/Valuespace/TTPAR_TrueFalse">False</EvaluateTranspiled>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+<QuickJSEngine valueSpaceRef="/Valuespace/TTPAR_OnOff">On</QuickJSEngine>
+<UnresponsiveTimeout valueSpaceRef="/Valuespace/INT_0_65535">5</UnresponsiveTimeout>
+</Macros>
+<MicrosoftTeams>
+<CVI>
+<CrossTenant valueSpaceRef="/Valuespace/TTPAR_EnabledDisabledAuto">Auto</CrossTenant>
+</CVI>
+<Diagnostics>
+<ShowUnsupportedConsoleNotification valueSpaceRef="/Valuespace/TTPAR_TrueFalse">True</ShowUnsupportedConsoleNotification>
+</Diagnostics>
+<Logging>
+<Level valueSpaceRef="/Valuespace/TTPAR_MicrosoftTeamsLogLevels">Info</Level>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</Logging>
+<Zoom>
+<CrossLaunch valueSpaceRef="/Valuespace/TTPAR_DisabledAuto">Auto</CrossLaunch>
+</Zoom>
+</MicrosoftTeams>
+<Network item="1" maxOccurrence="1">
+<DNS>
+<DNSSEC>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+</DNSSEC>
+<Domain>
+<Name valueSpaceRef="/Valuespace/STR_0_64_BasicDomainNameListCheck"/>
+</Domain>
+<Server item="1" maxOccurrence="3">
+<Address valueSpaceRef="/Valuespace/STR_0_64_IPv4v6"/>
+</Server>
+<Server item="2" maxOccurrence="3">
+<Address valueSpaceRef="/Valuespace/STR_0_64_IPv4v6"/>
+</Server>
+<Server item="3" maxOccurrence="3">
+<Address valueSpaceRef="/Valuespace/STR_0_64_IPv4v6"/>
+</Server>
+</DNS>
+<FQDN valueSpaceRef="/Valuespace/STR_0_255_NoFilt"/>
+<Firewall>
+<Incoming>
+<H323 valueSpaceRef="/Valuespace/STR_0_255_IP-List"/>
+<Pairing valueSpaceRef="/Valuespace/STR_0_255_IP-List"/>
+<SIP valueSpaceRef="/Valuespace/STR_0_255_IP-List"/>
+</Incoming>
+</Firewall>
+<IEEE8021X>
+<AnonymousIdentity valueSpaceRef="/Valuespace/STR_0_64_NoFilt"/>
+<Eap>
+<Md5 valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Md5>
+<Peap valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Peap>
+<Tls valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Tls>
+<Ttls valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Ttls>
+</Eap>
+<Identity valueSpaceRef="/Valuespace/STR_0_64_NoFilt"/>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+<Password valueSpaceRef="/Valuespace/PASSWORD_0_50_NoFilt">***</Password>
+<TlsVerify valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</TlsVerify>
+<UseClientCertificate valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</UseClientCertificate>
+</IEEE8021X>
+<IPStack valueSpaceRef="/Valuespace/TTPAR_IpProtocolWithDual">Dual</IPStack>
+<IPv4>
+<Address valueSpaceRef="/Valuespace/STR_0_64_IPv4"/>
+<Assignment valueSpaceRef="/Valuespace/TTPAR_IpAssignment">DHCP</Assignment>
+<Gateway valueSpaceRef="/Valuespace/STR_0_64_IPv4"/>
+<InterfaceIdentifier valueSpaceRef="/Valuespace/TTPAR_IPv4InterfaceIdentifier">Auto</InterfaceIdentifier>
+<SubnetMask valueSpaceRef="/Valuespace/STR_0_64_IPv4"/>
+</IPv4>
+<IPv6>
+<Address valueSpaceRef="/Valuespace/STR_0_64_IPv6WithNetmask"/>
+<Assignment valueSpaceRef="/Valuespace/TTPAR_IPv6Assignment">Autoconf</Assignment>
+<DHCPOptions valueSpaceRef="/Valuespace/TTPAR_OnOff">On</DHCPOptions>
+<Gateway valueSpaceRef="/Valuespace/STR_0_64_IPv6"/>
+<InterfaceIdentifier valueSpaceRef="/Valuespace/TTPAR_IPv6InterfaceIdentifier">MAC</InterfaceIdentifier>
+</IPv6>
+<MTU valueSpaceRef="/Valuespace/INT_576_1500">1500</MTU>
+<QoS>
+<Diffserv>
+<Audio valueSpaceRef="/Valuespace/INT_0_63">46</Audio>
+<Data valueSpaceRef="/Valuespace/INT_0_63">34</Data>
+<ICMPv6 valueSpaceRef="/Valuespace/INT_0_63">0</ICMPv6>
+<NTP valueSpaceRef="/Valuespace/INT_0_63">0</NTP>
+<Signalling valueSpaceRef="/Valuespace/INT_0_63">24</Signalling>
+<Video valueSpaceRef="/Valuespace/INT_0_63">34</Video>
+</Diffserv>
+<Mode valueSpaceRef="/Valuespace/TTPAR_QoSMode">Diffserv</Mode>
+</QoS>
+<RemoteAccess>
+<Allow valueSpaceRef="/Valuespace/STR_0_255_IP-List"/>
+</RemoteAccess>
+<Speed valueSpaceRef="/Valuespace/TTPAR_InterfaceSpeed">Auto</Speed>
+<VLAN>
+<Voice>
+<Mode valueSpaceRef="/Valuespace/TTPAR_Dot1qMode">Auto</Mode>
+<VlanId valueSpaceRef="/Valuespace/INT_1_4094">1</VlanId>
+</Voice>
+</VLAN>
+</Network>
+<NetworkServices>
+<CDP>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</CDP>
+<DiscoveryProtocol>
+<SystemName valueSpaceRef="/Valuespace/TTPAR_FqdnSepmacAuto">Auto</SystemName>
+</DiscoveryProtocol>
+<HTTP>
+<Mode valueSpaceRef="/Valuespace/TTPAR_HTTPModes">HTTPS</Mode>
+<Proxy>
+<LoginName valueSpaceRef="/Valuespace/STR_0_80_NoFilt"/>
+<Mode valueSpaceRef="/Valuespace/TTPAR_HTTPProxyModes">Off</Mode>
+<PACUrl valueSpaceRef="/Valuespace/STR_0_255_NoFilt"/>
+<Password valueSpaceRef="/Valuespace/PASSWORD_0_64_NoFilt">***</Password>
+<Url valueSpaceRef="/Valuespace/STR_0_255_NoFilt"/>
+</Proxy>
+</HTTP>
+<HTTPS>
+<Server>
+<MinimumTLSVersion valueSpaceRef="/Valuespace/TTPAR_TLSVersions_min_11">TLSv1.2</MinimumTLSVersion>
+</Server>
+<StrictTransportSecurity valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</StrictTransportSecurity>
+<VerifyClientCertificate valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</VerifyClientCertificate>
+</HTTPS>
+<LLDP>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOffPassive">Passive</Mode>
+</LLDP>
+<PTP>
+<Priority valueSpaceRef="/Valuespace/INT_0_255">255</Priority>
+</PTP>
+<SIP>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</SIP>
+<SMTP>
+<From valueSpaceRef="/Valuespace/STR_0_255_NoFilt"/>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+<Password valueSpaceRef="/Valuespace/PASSWORD_0_64_NoFilt">***</Password>
+<Port valueSpaceRef="/Valuespace/INT_0_65535">0</Port>
+<Security valueSpaceRef="/Valuespace/TTPAR_SmtpType">StartTls</Security>
+<Server valueSpaceRef="/Valuespace/STR_0_255_NoFilt"/>
+<Username valueSpaceRef="/Valuespace/STR_0_80_NoFilt"/>
+</SMTP>
+<SNMP>
+<CommunityName valueSpaceRef="/Valuespace/STR_0_50_NoFilt"/>
+<Mode valueSpaceRef="/Valuespace/TTPAR_SnmpService">Off</Mode>
+<SysNameSource valueSpaceRef="/Valuespace/TTPAR_SnmpSysNameSource">Auto</SysNameSource>
+<SystemContact valueSpaceRef="/Valuespace/STR_0_50_NoFilt"/>
+<SystemLocation valueSpaceRef="/Valuespace/STR_0_50_NoFilt"/>
+</SNMP>
+<SSH>
+<HostKeyAlgorithm valueSpaceRef="/Valuespace/TTPAR_SSHHostKeyAlgorithms">RSA</HostKeyAlgorithm>
+<KeyExchangeAlgorithms>
+<AllowLegacy valueSpaceRef="/Valuespace/TTPAR_OnOff">On</AllowLegacy>
+</KeyExchangeAlgorithms>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</SSH>
+<UPnP>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</UPnP>
+<Websocket valueSpaceRef="/Valuespace/TTPAR_WebsocketModes">FollowHTTPService</Websocket>
+<WelcomeText valueSpaceRef="/Valuespace/TTPAR_OnOff">On</WelcomeText>
+<Wifi>
+<Allowed valueSpaceRef="/Valuespace/TTPAR_TrueFalse">True</Allowed>
+<Settings>
+<FrequencyBand valueSpaceRef="/Valuespace/TTPAR_WifiFrequencyBand">Auto</FrequencyBand>
+</Settings>
+</Wifi>
+</NetworkServices>
+<Peripherals>
+<InputDevice>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+</InputDevice>
+<Pairing>
+<CiscoTouchPanels>
+<HttpProxy valueSpaceRef="/Valuespace/TTPAR_AutoOff">Auto</HttpProxy>
+<RemotePairing valueSpaceRef="/Valuespace/TTPAR_OnOff">On</RemotePairing>
+</CiscoTouchPanels>
+</Pairing>
+<Profile>
+<Cameras valueSpaceRef="/Valuespace/TTPAR_CameraCount">Minimum1</Cameras>
+<ControlSystems valueSpaceRef="/Valuespace/TTPAR_ControlSystemsCount">NotSet</ControlSystems>
+<Microphones>
+<Analog valueSpaceRef="/Valuespace/TTPAR_MicrophonesCount3">NotSet</Analog>
+<Ethernet valueSpaceRef="/Valuespace/TTPAR_MicrophonesCount">NotSet</Ethernet>
+<USBMicrophone valueSpaceRef="/Valuespace/TTPAR_MicrophonesCount1">NotSet</USBMicrophone>
+</Microphones>
+<TouchPanels valueSpaceRef="/Valuespace/TTPAR_TouchPanelCount">Auto</TouchPanels>
+</Profile>
+<Security>
+<Certificates>
+<SyncToPeripherals>
+<Enabled valueSpaceRef="/Valuespace/TTPAR_TrueFalse">True</Enabled>
+</SyncToPeripherals>
+</Certificates>
+</Security>
+</Peripherals>
+<Phonebook>
+<Server item="1" maxOccurrence="1">
+<ID valueSpaceRef="/Valuespace/STR_0_64_NoFilt"/>
+<Type valueSpaceRef="/Valuespace/TTPAR_PhonebookTypes">Spark</Type>
+<URL valueSpaceRef="/Valuespace/STR_0_255_NoInvalidXmlChars"/>
+</Server>
+</Phonebook>
+<Provisioning>
+<CUCM>
+<CallManagementRecords>
+<CallDiagnostics valueSpaceRef="/Valuespace/TTPAR_EnabledDisabled">Enabled</CallDiagnostics>
+</CallManagementRecords>
+</CUCM>
+<Mode valueSpaceRef="/Valuespace/TTPAR_ProvisioningModes">Webex</Mode>
+<RoomType>
+<CameraLayout valueSpaceRef="/Valuespace/TTPAR_MainVideoSourceLayout">PIP</CameraLayout>
+</RoomType>
+<TlsVerify valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</TlsVerify>
+<WebexEdge valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</WebexEdge>
+</Provisioning>
+<Proximity>
+<AlternatePort>
+<Enabled valueSpaceRef="/Valuespace/TTPAR_TrueFalse">False</Enabled>
+</AlternatePort>
+<Services>
+<CallControl valueSpaceRef="/Valuespace/TTPAR_EnabledDisabled">Disabled</CallControl>
+<ContentShare>
+<FromClients valueSpaceRef="/Valuespace/TTPAR_EnabledDisabled">Enabled</FromClients>
+<ToClients valueSpaceRef="/Valuespace/TTPAR_Disabled">Disabled</ToClients>
+</ContentShare>
+</Services>
+</Proximity>
+<RTP>
+<Audio>
+<Ports>
+<Range>
+<Webex>
+<Start valueSpaceRef="/Valuespace/INT_1024_65454">52050</Start>
+<Stop valueSpaceRef="/Valuespace/INT_1121_65535">52099</Stop>
+</Webex>
+</Range>
+</Ports>
+</Audio>
+<Ports>
+<Range>
+<Start valueSpaceRef="/Valuespace/INT_1024_65438">2326</Start>
+<Stop valueSpaceRef="/Valuespace/INT_1121_65535">2487</Stop>
+</Range>
+</Ports>
+<Video>
+<Ports>
+<Range>
+<Start valueSpaceRef="/Valuespace/INT_0_65454">0</Start>
+<Stop valueSpaceRef="/Valuespace/INT_0_65535">0</Stop>
+<Webex>
+<Start valueSpaceRef="/Valuespace/INT_1024_65454">52200</Start>
+<Stop valueSpaceRef="/Valuespace/INT_1121_65535">52299</Stop>
+</Webex>
+</Range>
+</Ports>
+</Video>
+</RTP>
+<RemoteAccess>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<ShowTapIndicator valueSpaceRef="/Valuespace/TTPAR_TrueFalse">True</ShowTapIndicator>
+</RemoteAccess>
+<RoomAnalytics>
+<AmbientNoiseEstimation>
+<Interval valueSpaceRef="/Valuespace/INT_10_60">10</Interval>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+</AmbientNoiseEstimation>
+<PeopleCountOutOfCall valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</PeopleCountOutOfCall>
+<PeoplePresence>
+<Input>
+<HeadDetector valueSpaceRef="/Valuespace/TTPAR_OnOff">On</HeadDetector>
+<Ultrasound valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Ultrasound>
+</Input>
+</PeoplePresence>
+<PeoplePresenceDetector valueSpaceRef="/Valuespace/TTPAR_OnOff">On</PeoplePresenceDetector>
+<ReverberationTime>
+<Interval valueSpaceRef="/Valuespace/INT_60_3600">1800</Interval>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+</ReverberationTime>
+<RoomInUse>
+<InCall valueSpaceRef="/Valuespace/TTPAR_EnabledDisabled">Enabled</InCall>
+<LocalUsage valueSpaceRef="/Valuespace/TTPAR_EnabledDisabled">Enabled</LocalUsage>
+</RoomInUse>
+<RoomLayout>
+<Allowed valueSpaceRef="/Valuespace/TTPAR_TrueFalse">False</Allowed>
+</RoomLayout>
+<T3AlarmDetection>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+<Timeout valueSpaceRef="/Valuespace/INT_5_60">10</Timeout>
+</T3AlarmDetection>
+</RoomAnalytics>
+<RoomCleanup>
+<AutoRun>
+<ContentType>
+<TemporaryAccounts valueSpaceRef="/Valuespace/TTPAR_RoomCleanupMode">Daily</TemporaryAccounts>
+<WebData valueSpaceRef="/Valuespace/TTPAR_RoomCleanupMode">Daily</WebData>
+<Whiteboards valueSpaceRef="/Valuespace/TTPAR_RoomCleanupMode">Daily</Whiteboards>
+</ContentType>
+<HourOfDay valueSpaceRef="/Valuespace/INT_0_23">0</HourOfDay>
+</AutoRun>
+</RoomCleanup>
+<RoomScheduler>
+<BookingTimeout valueSpaceRef="/Valuespace/INT_60_300">60</BookingTimeout>
+<Enabled valueSpaceRef="/Valuespace/TTPAR_TrueFalse">False</Enabled>
+</RoomScheduler>
+<SIP>
+<ANAT valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</ANAT>
+<Authentication>
+<Password valueSpaceRef="/Valuespace/PASSWORD_0_128_NoFilt">***</Password>
+<UserName valueSpaceRef="/Valuespace/STR_0_128_NoFilt">7fd0b2bb4d7a4894d1f2403d4c8c</UserName>
+</Authentication>
+<DefaultTransport valueSpaceRef="/Valuespace/TTPAR_SIP_DEF_TRNSP">TCP</DefaultTransport>
+<DisplayName valueSpaceRef="/Valuespace/STR_0_550_NoFilt">Fawcett</DisplayName>
+<ListenPort valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Off</ListenPort>
+<MinimumTLSVersion valueSpaceRef="/Valuespace/TTPAR_TLSVersions_min_10">TLSv1.2</MinimumTLSVersion>
+<Proxy item="1" maxOccurrence="4">
+<Address valueSpaceRef="/Valuespace/STR_0_255_NoFilt">sip.us-east-1.prod.n2p.io:6070</Address>
+</Proxy>
+<Proxy item="2" maxOccurrence="4">
+<Address valueSpaceRef="/Valuespace/STR_0_255_NoFilt"/>
+</Proxy>
+<Proxy item="3" maxOccurrence="4">
+<Address valueSpaceRef="/Valuespace/STR_0_255_NoFilt"/>
+</Proxy>
+<Proxy item="4" maxOccurrence="4">
+<Address valueSpaceRef="/Valuespace/STR_0_255_NoFilt"/>
+</Proxy>
+<TlsVerify valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</TlsVerify>
+<TransportSecurity>
+<CertificateVerificationMode valueSpaceRef="/Valuespace/TTPAR_CertificateVerificationMode">Auto</CertificateVerificationMode>
+</TransportSecurity>
+<URI valueSpaceRef="/Valuespace/STR_0_255_NoFilt">sip:7fd0b2bb4d7a4894d1f2403d4c8c@sip.us-east-1.prod.n2p.io</URI>
+</SIP>
+<Security>
+<Audit>
+<Logging>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AuditLoggingMode">Internal</Mode>
+</Logging>
+<OnError>
+<Action valueSpaceRef="/Valuespace/TTPAR_AuditOnErrorAction">Ignore</Action>
+</OnError>
+<Server>
+<Address valueSpaceRef="/Valuespace/STR_0_255_IPorHostname"/>
+<Port valueSpaceRef="/Valuespace/INT_0_65535">514</Port>
+<PortAssignment valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</PortAssignment>
+</Server>
+</Audit>
+<CSR>
+<KeySize valueSpaceRef="/Valuespace/TTPAR_RSAKeySize">2048</KeySize>
+</CSR>
+<Enrollment>
+<KeySize valueSpaceRef="/Valuespace/TTPAR_RSAKeySize">2048</KeySize>
+</Enrollment>
+<Fips>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+</Fips>
+<Session>
+<FailedLoginsLockoutTime valueSpaceRef="/Valuespace/INT_0_10000">5</FailedLoginsLockoutTime>
+<InactivityTimeout valueSpaceRef="/Valuespace/INT_0_10000">0</InactivityTimeout>
+<MaxFailedLogins valueSpaceRef="/Valuespace/INT_0_10">5</MaxFailedLogins>
+<MaxSessionsPerUser valueSpaceRef="/Valuespace/INT_1_20">20</MaxSessionsPerUser>
+<MaxTotalSessions valueSpaceRef="/Valuespace/INT_1_30">30</MaxTotalSessions>
+<ShowLastLogon valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</ShowLastLogon>
+</Session>
+<Xapi>
+<WebSocket>
+<ApiKey>
+<Allowed valueSpaceRef="/Valuespace/TTPAR_TrueFalse">False</Allowed>
+</ApiKey>
+</WebSocket>
+</Xapi>
+</Security>
+<Sensors>
+<Ultrasound>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoOff">Auto</Mode>
+</Ultrasound>
+</Sensors>
+<SerialPort>
+<BaudRate valueSpaceRef="/Valuespace/TTPAR_SerialBaud115200">115200</BaudRate>
+<LoginRequired valueSpaceRef="/Valuespace/TTPAR_OnOff">On</LoginRequired>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<Outbound>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+<Port item="1" maxOccurrence="1">
+<BaudRate valueSpaceRef="/Valuespace/TTPAR_SerialBaud">115200</BaudRate>
+<Description valueSpaceRef="/Valuespace/STR_0_512_NoFilt"/>
+<Parity valueSpaceRef="/Valuespace/TTPAR_SerialParity">None</Parity>
+</Port>
+</Outbound>
+</SerialPort>
+<Standby>
+<BootAction valueSpaceRef="/Valuespace/TTPAR_WakeupBootAction">DefaultCameraPosition</BootAction>
+<BrightnessDelay valueSpaceRef="/Valuespace/INT_1_60">30</BrightnessDelay>
+<Control valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Control>
+<Delay valueSpaceRef="/Valuespace/INT_1_480">10</Delay>
+<Halfwake>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Auto</Mode>
+</Halfwake>
+<Level>
+<Networked>
+<Delay valueSpaceRef="/Valuespace/INT_0_1440">2</Delay>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</Networked>
+</Level>
+<Signage>
+<Audio valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Audio>
+<InteractionMode valueSpaceRef="/Valuespace/TTPAR_SignageInteractionMode">NonInteractive</InteractionMode>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+<RefreshInterval valueSpaceRef="/Valuespace/INT_0_1440">0</RefreshInterval>
+<RoomScheduler>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+</RoomScheduler>
+<Url valueSpaceRef="/Valuespace/STR_0_2048_NoFilt"/>
+</Signage>
+<StandbyAction valueSpaceRef="/Valuespace/TTPAR_StandbyAction">PrivacyPosition</StandbyAction>
+<WakeupAction valueSpaceRef="/Valuespace/TTPAR_WakeupBootAction">RestoreCameraPosition</WakeupAction>
+<WakeupAtMeetingStart valueSpaceRef="/Valuespace/TTPAR_AutoOff">Auto</WakeupAtMeetingStart>
+<WakeupOnMotionDetection valueSpaceRef="/Valuespace/TTPAR_OnOff">On</WakeupOnMotionDetection>
+<WakeupOnPairing valueSpaceRef="/Valuespace/TTPAR_OnOff">On</WakeupOnPairing>
+</Standby>
+<SystemUnit>
+<BroadcastName valueSpaceRef="/Valuespace/STR_0_256_NoFilt"/>
+<CrashReporting>
+<Host valueSpaceRef="/Valuespace/STR_0_255_NoInvalidXmlChars"/>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+<URL valueSpaceRef="/Valuespace/STR_0_255_NoInvalidXmlChars"/>
+</CrashReporting>
+<CustomDeviceId valueSpaceRef="/Valuespace/STR_0_255_NoFilt"/>
+<Extension>
+<MouseSupport valueSpaceRef="/Valuespace/TTPAR_EnabledDisabled">Enabled</MouseSupport>
+</Extension>
+<Hardware>
+<USBC item="1" maxOccurrence="1">
+<Mode valueSpaceRef="/Valuespace/TTPAR_USBModes">USB3</Mode>
+</USBC>
+</Hardware>
+<Name valueSpaceRef="/Valuespace/STR_0_50_NoFilt"/>
+<SoftwareUpgrade>
+<Provider valueSpaceRef="/Valuespace/TTPAR_SoftwareUpgradeProvider">Cisco</Provider>
+</SoftwareUpgrade>
+</SystemUnit>
+<ThousandEyes>
+<ConnectionString valueSpaceRef="/Valuespace/STR_0_512_NoFilt"/>
+</ThousandEyes>
+<Time>
+<DateFormat valueSpaceRef="/Valuespace/TTPAR_DateFormat">DD_MM_YY</DateFormat>
+<OfficeHours>
+<Enabled valueSpaceRef="/Valuespace/TTPAR_TrueFalse">True</Enabled>
+<OutsideOfficeHours>
+<Standby>
+<AutoWakeup valueSpaceRef="/Valuespace/TTPAR_EnabledDisabled">Disabled</AutoWakeup>
+<Delay valueSpaceRef="/Valuespace/INT_1_30">5</Delay>
+</Standby>
+</OutsideOfficeHours>
+<WorkDay>
+<End valueSpaceRef="/Valuespace/STR_5_5_ValidHoursColonMinutes">19:00</End>
+<Start valueSpaceRef="/Valuespace/STR_5_5_ValidHoursColonMinutes">07:00</Start>
+</WorkDay>
+<WorkWeek>
+<Friday valueSpaceRef="/Valuespace/TTPAR_TrueFalse">True</Friday>
+<Monday valueSpaceRef="/Valuespace/TTPAR_TrueFalse">True</Monday>
+<Saturday valueSpaceRef="/Valuespace/TTPAR_TrueFalse">False</Saturday>
+<Sunday valueSpaceRef="/Valuespace/TTPAR_TrueFalse">False</Sunday>
+<Thursday valueSpaceRef="/Valuespace/TTPAR_TrueFalse">True</Thursday>
+<Tuesday valueSpaceRef="/Valuespace/TTPAR_TrueFalse">True</Tuesday>
+<Wednesday valueSpaceRef="/Valuespace/TTPAR_TrueFalse">True</Wednesday>
+</WorkWeek>
+</OfficeHours>
+<TimeFormat valueSpaceRef="/Valuespace/TTPAR_TimeFormat">24H</TimeFormat>
+<Zone valueSpaceRef="/Valuespace/TTPAR_OlsonTimeZone">Etc/UTC</Zone>
+</Time>
+<UserInterface>
+<Accessibility>
+<IncomingCallNotification valueSpaceRef="/Valuespace/TTPAR_AccessibilityCallNotification">Default</IncomingCallNotification>
+<ScreenReader>
+<Default>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOffCurrent">Off</Mode>
+</Default>
+<Gesture valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Gesture>
+<Speed valueSpaceRef="/Valuespace/INT_1_300">100</Speed>
+</ScreenReader>
+</Accessibility>
+<Assistant>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<ProactiveMeetingJoin valueSpaceRef="/Valuespace/TTPAR_TrueFalse">True</ProactiveMeetingJoin>
+</Assistant>
+<Bookings>
+<AdhocBooking>
+<DefaultTitle valueSpaceRef="/Valuespace/STR_0_32_NoFilt">Ad hoc meeting</DefaultTitle>
+<TimeSlotSize valueSpaceRef="/Valuespace/TTPAR_TimeSlotSize">30</TimeSlotSize>
+<UseDefaultTitle valueSpaceRef="/Valuespace/TTPAR_TrueFalse">False</UseDefaultTitle>
+</AdhocBooking>
+<Visibility>
+<AllDayMeetings valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</AllDayMeetings>
+<EarlyJoin valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Hidden</EarlyJoin>
+<JoinedParticipants>
+<Avatars valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</Avatars>
+</JoinedParticipants>
+<MeetingReminder valueSpaceRef="/Valuespace/TTPAR_ReminderVisibilityOptions">ControllerOnly</MeetingReminder>
+<NonJoinableMeetings valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</NonJoinableMeetings>
+<Organizer valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</Organizer>
+<Personal>
+<FullDayCalendar valueSpaceRef="/Valuespace/TTPAR_OnOff">On</FullDayCalendar>
+<NonJoinableMeetings valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Hidden</NonJoinableMeetings>
+</Personal>
+<TentativeMeetings valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</TentativeMeetings>
+<Title valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</Title>
+</Visibility>
+</Bookings>
+<Branding>
+<AwakeBranding>
+<Colors valueSpaceRef="/Valuespace/TTPAR_AutoNative">Auto</Colors>
+</AwakeBranding>
+</Branding>
+<CameraControl>
+<Presets>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoLocked">Auto</Mode>
+</Presets>
+</CameraControl>
+<ContactInfo>
+<Type valueSpaceRef="/Valuespace/TTPAR_ContactInfoVs">Auto</Type>
+</ContactInfo>
+<CustomMessage valueSpaceRef="/Valuespace/STR_0_512_NoFilt"/>
+<CustomWallpaperOverlay valueSpaceRef="/Valuespace/TTPAR_OnOff">On</CustomWallpaperOverlay>
+<DecemberThemeBeta valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</DecemberThemeBeta>
+<DevicePersonalization>
+<QRCodeNotification valueSpaceRef="/Valuespace/TTPAR_OnOff">On</QRCodeNotification>
+</DevicePersonalization>
+<Diagnostics>
+<Notifications valueSpaceRef="/Valuespace/TTPAR_NotificationsVisibility">Auto</Notifications>
+</Diagnostics>
+<Features>
+<AutoLowerHand valueSpaceRef="/Valuespace/TTPAR_EnabledDisabled">Enabled</AutoLowerHand>
+<Calendar>
+<Start valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</Start>
+</Calendar>
+<Call>
+<AINotes valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</AINotes>
+<AudioMute valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</AudioMute>
+<CameraControls valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</CameraControls>
+<End valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</End>
+<JoinGoogleMeet valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</JoinGoogleMeet>
+<JoinMicrosoftTeamsCVI valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Hidden</JoinMicrosoftTeamsCVI>
+<JoinMicrosoftTeamsDirectGuestJoin valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</JoinMicrosoftTeamsDirectGuestJoin>
+<JoinWebex valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</JoinWebex>
+<JoinZoom valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</JoinZoom>
+<Keypad valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</Keypad>
+<LayoutControls valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</LayoutControls>
+<MidCallControls valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</MidCallControls>
+<MusicMode valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Hidden</MusicMode>
+<ParticipantList valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</ParticipantList>
+<SelfviewControls valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</SelfviewControls>
+<SimultaneousInterpretation valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</SimultaneousInterpretation>
+<Start valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</Start>
+<VideoMute valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</VideoMute>
+<Webcam valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</Webcam>
+</Call>
+<Files>
+<Start valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</Start>
+</Files>
+<HideAll valueSpaceRef="/Valuespace/TTPAR_TrueFalse">False</HideAll>
+<Share>
+<GuestTokenShareUrl valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</GuestTokenShareUrl>
+<MTRAutoSelectSource valueSpaceRef="/Valuespace/TTPAR_OnOff">On</MTRAutoSelectSource>
+<MTRShareExperience valueSpaceRef="/Valuespace/TTPAR_MTRShareExperience">RoomOS</MTRShareExperience>
+<Start valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</Start>
+<WebexWirelessShare valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</WebexWirelessShare>
+</Share>
+<Whiteboard>
+<Start valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</Start>
+</Whiteboard>
+</Features>
+<Help>
+<Tips valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</Tips>
+</Help>
+<HomeScreen>
+<Dashboard valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Dashboard>
+<Peripherals>
+<WebApp>
+<AllowInsecureHttps valueSpaceRef="/Valuespace/TTPAR_TrueFalse">False</AllowInsecureHttps>
+<URL valueSpaceRef="/Valuespace/STR_0_2048_NoFilt"/>
+</WebApp>
+</Peripherals>
+</HomeScreen>
+<InstantMeeting>
+<Invite valueSpaceRef="/Valuespace/TTPAR_AddDialogVisibility">Promote</Invite>
+</InstantMeeting>
+<KeyTones>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</KeyTones>
+<Language valueSpaceRef="/Valuespace/TTPAR_MenuLanguages">English</Language>
+<LedControl>
+<Mode valueSpaceRef="/Valuespace/TTPAR_LedControlModes">Auto</Mode>
+<OutsideOfficeHours valueSpaceRef="/Valuespace/TTPAR_OnOff">On</OutsideOfficeHours>
+</LedControl>
+<LiveAnnotation>
+<AvailabilityForPresenter valueSpaceRef="/Valuespace/TTPAR_LiveAnnotationAvailability">Always</AvailabilityForPresenter>
+<Enabled valueSpaceRef="/Valuespace/TTPAR_TrueFalse">True</Enabled>
+<EnabledOutOfCall valueSpaceRef="/Valuespace/TTPAR_TrueFalse">True</EnabledOutOfCall>
+</LiveAnnotation>
+<MeetingJoin>
+<CVITenants valueSpaceRef="/Valuespace/STR_0_255_NoFilt"/>
+</MeetingJoin>
+<MuteWarning valueSpaceRef="/Valuespace/TTPAR_EnabledDisabled">Enabled</MuteWarning>
+<NameAndSiteLabels>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</Mode>
+</NameAndSiteLabels>
+<OSD>
+<EncryptionIndicator valueSpaceRef="/Valuespace/TTPAR_AutoAlwaysOnAlwaysOff">Auto</EncryptionIndicator>
+<HalfwakeMessage valueSpaceRef="/Valuespace/STR_0_128_NoFilt"/>
+<Mode valueSpaceRef="/Valuespace/TTPAR_UserInterfaceOSDModes">Auto</Mode>
+<Output valueSpaceRef="/Valuespace/TTPAR_OsdOutput_3_Auto">Auto</Output>
+</OSD>
+<Phonebook>
+<DefaultSearchFilter valueSpaceRef="/Valuespace/TTPAR_PhonebookSearchFilter">All</DefaultSearchFilter>
+<Mode valueSpaceRef="/Valuespace/TTPAR_PhonebookMode">ReadWrite</Mode>
+</Phonebook>
+<Proximity>
+<HomescreenQRCode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</HomescreenQRCode>
+<Notifications valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</Notifications>
+</Proximity>
+<RoomScheduler>
+<AmbientTemperature>
+<Show valueSpaceRef="/Valuespace/TTPAR_ShowTemperatureState">Auto</Show>
+</AmbientTemperature>
+<DevicePersonalization>
+<QRCodePairing valueSpaceRef="/Valuespace/TTPAR_OnOff">On</QRCodePairing>
+</DevicePersonalization>
+<Mode valueSpaceRef="/Valuespace/TTPAR_RoomSchedulerMode">Auto</Mode>
+<OverlayOpacity valueSpaceRef="/Valuespace/INT_0_100">50</OverlayOpacity>
+<PeopleCount>
+<Current valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</Current>
+</PeopleCount>
+<State>
+<Available>
+<Color valueSpaceRef="/Valuespace/TTPAR_LedControlColor">Green</Color>
+</Available>
+<Busy>
+<Color valueSpaceRef="/Valuespace/TTPAR_LedControlColor">Red</Color>
+</Busy>
+<Pending>
+<Color valueSpaceRef="/Valuespace/TTPAR_LedControlColor">Yellow</Color>
+</Pending>
+</State>
+</RoomScheduler>
+<RoomStatusMenu>
+<Visibility valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</Visibility>
+</RoomStatusMenu>
+<ScreenLock>
+<Policy valueSpaceRef="/Valuespace/TTPAR_EnforcedOptional">Optional</Policy>
+<Workspace>
+<Allowed valueSpaceRef="/Valuespace/TTPAR_TrueFalse">False</Allowed>
+</Workspace>
+</ScreenLock>
+<Security>
+<Mode valueSpaceRef="/Valuespace/TTPAR_UISecurityMode">Normal</Mode>
+</Security>
+<SettingsMenu>
+<Mode valueSpaceRef="/Valuespace/TTPAR_LockedUnlocked">Unlocked</Mode>
+<Pages>
+<About>
+<Mode valueSpaceRef="/Valuespace/TTPAR_LockedUnlocked">Unlocked</Mode>
+</About>
+</Pages>
+<Visibility valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</Visibility>
+</SettingsMenu>
+<SoundEffects>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</SoundEffects>
+<Theme>
+<Name valueSpaceRef="/Valuespace/TTPAR_UserInterfaceThemes">Auto</Name>
+</Theme>
+<WallpaperFillMode valueSpaceRef="/Valuespace/TTPAR_FillMode">Crop</WallpaperFillMode>
+<Whiteboard>
+<ActivityIndicators valueSpaceRef="/Valuespace/TTPAR_OnOff">On</ActivityIndicators>
+<Deletion valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</Deletion>
+<ShareInCall valueSpaceRef="/Valuespace/TTPAR_AutoHidden">Auto</ShareInCall>
+</Whiteboard>
+</UserInterface>
+<UserManagement>
+<LDAP>
+<Admin>
+<Filter valueSpaceRef="/Valuespace/STR_0_1024_NoFilt"/>
+<Group valueSpaceRef="/Valuespace/STR_0_255_NoFilt"/>
+</Admin>
+<Attribute valueSpaceRef="/Valuespace/STR_0_255_NoFilt"/>
+<BaseDN valueSpaceRef="/Valuespace/STR_0_255_NoFilt"/>
+<BindDN valueSpaceRef="/Valuespace/STR_0_255_NoFilt"/>
+<BindPassword valueSpaceRef="/Valuespace/PASSWORD_0_255_NoFilt">***</BindPassword>
+<Encryption valueSpaceRef="/Valuespace/TTPAR_LDAPEncryption">LDAPS</Encryption>
+<MemberAttribute valueSpaceRef="/Valuespace/STR_0_255_NoFilt"/>
+<MinimumTLSVersion valueSpaceRef="/Valuespace/TTPAR_TLSVersions_min_10">TLSv1.2</MinimumTLSVersion>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+<Server>
+<Address valueSpaceRef="/Valuespace/STR_0_255_NoFilt"/>
+<Port valueSpaceRef="/Valuespace/INT_0_65535">0</Port>
+</Server>
+<VerifyServerCertificate valueSpaceRef="/Valuespace/TTPAR_OnOff">On</VerifyServerCertificate>
+</LDAP>
+<PasswordPolicy>
+<Complexity>
+<MinimumDigits valueSpaceRef="/Valuespace/INT_0_4">0</MinimumDigits>
+<MinimumEntropy valueSpaceRef="/Valuespace/INT_0_150">0</MinimumEntropy>
+<MinimumLength valueSpaceRef="/Valuespace/INT_0_256">8</MinimumLength>
+<MinimumLowercase valueSpaceRef="/Valuespace/INT_0_4">0</MinimumLowercase>
+<MinimumSpecial valueSpaceRef="/Valuespace/INT_0_4">0</MinimumSpecial>
+<MinimumUppercase valueSpaceRef="/Valuespace/INT_0_4">0</MinimumUppercase>
+</Complexity>
+<MaxLifetime valueSpaceRef="/Valuespace/INT_0_7300">0</MaxLifetime>
+<ReuseLimit valueSpaceRef="/Valuespace/INT_0_24">12</ReuseLimit>
+</PasswordPolicy>
+</UserManagement>
+<Video>
+<DefaultLayoutFamily>
+<Local valueSpaceRef="/Valuespace/TTPAR_LayoutFamily_new">Auto</Local>
+<LocalContent valueSpaceRef="/Valuespace/TTPAR_LayoutFamily_new">Auto</LocalContent>
+</DefaultLayoutFamily>
+<DefaultMainSource valueSpaceRef="/Valuespace/TTPAR_MainSource">1</DefaultMainSource>
+<Features>
+<OptimizedTranscoding valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</OptimizedTranscoding>
+</Features>
+<Input>
+<AirPlay>
+<Beacon valueSpaceRef="/Valuespace/TTPAR_AirPlayBeacon">Auto</Beacon>
+<DiscoveryInstructions>
+<NetworkName valueSpaceRef="/Valuespace/STR_0_32_NoFilt"/>
+<ShowNetworkInfo valueSpaceRef="/Valuespace/TTPAR_TrueFalse">False</ShowNetworkInfo>
+</DiscoveryInstructions>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+<Password valueSpaceRef="/Valuespace/PASSWORD_0_63_NoFilt">***</Password>
+<PresentationSelection valueSpaceRef="/Valuespace/TTPAR_WirelessInputPresentationSelection">AutoShare</PresentationSelection>
+<SecurityMode valueSpaceRef="/Valuespace/TTPAR_AirPlayAuthentication">PinAlways</SecurityMode>
+</AirPlay>
+<CameraConfigMode valueSpaceRef="/Valuespace/TTPAR_AutoManual">Manual</CameraConfigMode>
+<Connector item="1" maxOccurrence="6">
+<CameraControl>
+<CameraId valueSpaceRef="/Valuespace/TTPAR_CameraId">1</CameraId>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</CameraControl>
+<InputSourceType valueSpaceRef="/Valuespace/TTPAR_VideoInputSourceTypeCameraOnly">camera</InputSourceType>
+<Name valueSpaceRef="/Valuespace/STR_0_50_NoFilt">Camera</Name>
+<Visibility valueSpaceRef="/Valuespace/TTPAR_ConnectorVisibilityNeverOnly">Never</Visibility>
+</Connector>
+<Connector item="2" maxOccurrence="6">
+<CEC>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</CEC>
+<CameraControl>
+<CameraId valueSpaceRef="/Valuespace/TTPAR_CameraId">2</CameraId>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+</CameraControl>
+<InputSourceType valueSpaceRef="/Valuespace/TTPAR_VideoInputSourceType">PC</InputSourceType>
+<MaxResolution valueSpaceRef="/Valuespace/TTPAR_ScreenSettings_1080_4k30_Only">3840_2160_30</MaxResolution>
+<Name valueSpaceRef="/Valuespace/STR_0_50_NoFilt">PC (HDMI)</Name>
+<PreferredResolution valueSpaceRef="/Valuespace/TTPAR_ScreenSettings_4k30_1440p60_1080p60_21_9">3840_2160_30</PreferredResolution>
+<PresentationSelection valueSpaceRef="/Valuespace/TTPAR_VideoInputPresentationSelection">OnConnect</PresentationSelection>
+<Quality valueSpaceRef="/Valuespace/TTPAR_LocalEncodingStrategy">Motion</Quality>
+<RGBQuantizationRange valueSpaceRef="/Valuespace/TTPAR_RgbQuantizationRange">Auto</RGBQuantizationRange>
+<Visibility valueSpaceRef="/Valuespace/TTPAR_ConnectorVisibility">Always</Visibility>
+</Connector>
+<Connector item="3" maxOccurrence="6">
+<CEC>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</CEC>
+<CameraControl>
+<CameraId valueSpaceRef="/Valuespace/TTPAR_CameraId">3</CameraId>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</Mode>
+</CameraControl>
+<InputSourceType valueSpaceRef="/Valuespace/TTPAR_VideoInputSourceType">PC</InputSourceType>
+<MaxResolution valueSpaceRef="/Valuespace/TTPAR_ScreenSettings_1080_4k30_Only">3840_2160_30</MaxResolution>
+<Name valueSpaceRef="/Valuespace/STR_0_50_NoFilt">PC (USB-C)</Name>
+<PreferredResolution valueSpaceRef="/Valuespace/TTPAR_ScreenSettings_4k30_1440p60_1080p60_21_9">3840_2160_30</PreferredResolution>
+<PresentationSelection valueSpaceRef="/Valuespace/TTPAR_VideoInputPresentationSelection">OnConnect</PresentationSelection>
+<Quality valueSpaceRef="/Valuespace/TTPAR_LocalEncodingStrategy">Auto</Quality>
+<RGBQuantizationRange valueSpaceRef="/Valuespace/TTPAR_RgbQuantizationRange">Auto</RGBQuantizationRange>
+<Visibility valueSpaceRef="/Valuespace/TTPAR_ConnectorVisibility">Always</Visibility>
+</Connector>
+<Connector item="4" maxOccurrence="6">
+<AssignedSerialNumber valueSpaceRef="/Valuespace/STR_0_40_NoFilt"/>
+<InputSourceType valueSpaceRef="/Valuespace/TTPAR_VideoInputSourceType">PC</InputSourceType>
+<Name valueSpaceRef="/Valuespace/STR_0_50_NoFilt">USB Camera 1</Name>
+<PresentationSelection valueSpaceRef="/Valuespace/TTPAR_VideoInputPresentationSelection">Manual</PresentationSelection>
+<Quality valueSpaceRef="/Valuespace/TTPAR_LocalEncodingStrategy">Auto</Quality>
+<Transform valueSpaceRef="/Valuespace/TTPAR_Transforms">None</Transform>
+<Visibility valueSpaceRef="/Valuespace/TTPAR_ConnectorVisibility">IfSignal</Visibility>
+</Connector>
+<Connector item="5" maxOccurrence="6">
+<AssignedSerialNumber valueSpaceRef="/Valuespace/STR_0_40_NoFilt"/>
+<InputSourceType valueSpaceRef="/Valuespace/TTPAR_VideoInputSourceType">PC</InputSourceType>
+<Name valueSpaceRef="/Valuespace/STR_0_50_NoFilt">USB Camera 2</Name>
+<PresentationSelection valueSpaceRef="/Valuespace/TTPAR_VideoInputPresentationSelection">Manual</PresentationSelection>
+<Quality valueSpaceRef="/Valuespace/TTPAR_LocalEncodingStrategy">Auto</Quality>
+<Transform valueSpaceRef="/Valuespace/TTPAR_Transforms">None</Transform>
+<Visibility valueSpaceRef="/Valuespace/TTPAR_ConnectorVisibility">IfSignal</Visibility>
+</Connector>
+<Connector item="6" maxOccurrence="6">
+<InputSourceType valueSpaceRef="/Valuespace/TTPAR_VideoInputSourceType">camera</InputSourceType>
+<Name valueSpaceRef="/Valuespace/STR_0_50_NoFilt">Ethernet 1</Name>
+<PresentationSelection valueSpaceRef="/Valuespace/TTPAR_VideoInputPresentationSelection">Manual</PresentationSelection>
+<Quality valueSpaceRef="/Valuespace/TTPAR_LocalEncodingStrategy">Motion</Quality>
+<Visibility valueSpaceRef="/Valuespace/TTPAR_ConnectorVisibility">Never</Visibility>
+</Connector>
+<Miracast>
+<Channel valueSpaceRef="/Valuespace/TTPAR_MiracastChannelFull">Auto</Channel>
+<MaxBitrate valueSpaceRef="/Valuespace/INT_5000_15000">15000</MaxBitrate>
+<Mode valueSpaceRef="/Valuespace/TTPAR_MiracastMode">Off</Mode>
+<Pin>
+<Length valueSpaceRef="/Valuespace/TTPAR_MiracastPinLength">4</Length>
+</Pin>
+<PresentationSelection valueSpaceRef="/Valuespace/TTPAR_WirelessInputPresentationSelection">AutoShare</PresentationSelection>
+<Quality valueSpaceRef="/Valuespace/TTPAR_LocalEncodingStrategy">Auto</Quality>
+<Transport valueSpaceRef="/Valuespace/TTPAR_MiracastTransport">Auto</Transport>
+</Miracast>
+</Input>
+<Monitors valueSpaceRef="/Valuespace/TTPAR_Monitors_Triple">Auto</Monitors>
+<Output>
+<Connector item="1" maxOccurrence="3">
+<CEC>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</CEC>
+<ContentType valueSpaceRef="/Valuespace/TTPAR_ContentType">Default</ContentType>
+<HDCPForce1_4 valueSpaceRef="/Valuespace/TTPAR_OnOff">On</HDCPForce1_4>
+<HDCPPolicy valueSpaceRef="/Valuespace/TTPAR_OnOff">On</HDCPPolicy>
+<Location>
+<HorizontalOffset valueSpaceRef="/Valuespace/STR_1_12_HorizontalOffset">-1</HorizontalOffset>
+<VerticalOffset valueSpaceRef="/Valuespace/STR_1_12_VerticalOffset">0</VerticalOffset>
+</Location>
+<MonitorRole valueSpaceRef="/Valuespace/TTPAR_MonitorRole_Triple_Auto">Auto</MonitorRole>
+<RGBQuantizationRange valueSpaceRef="/Valuespace/TTPAR_RgbQuantizationRange">Full</RGBQuantizationRange>
+<Resolution valueSpaceRef="/Valuespace/TTPAR_ScreenSettings_4k_21_9_Auto">Auto</Resolution>
+</Connector>
+<Connector item="2" maxOccurrence="3">
+<CEC>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</CEC>
+<ContentType valueSpaceRef="/Valuespace/TTPAR_ContentType">Default</ContentType>
+<HDCPForce1_4 valueSpaceRef="/Valuespace/TTPAR_OnOff">On</HDCPForce1_4>
+<HDCPPolicy valueSpaceRef="/Valuespace/TTPAR_OnOff">On</HDCPPolicy>
+<Location>
+<HorizontalOffset valueSpaceRef="/Valuespace/STR_1_12_HorizontalOffset">0</HorizontalOffset>
+<VerticalOffset valueSpaceRef="/Valuespace/STR_1_12_VerticalOffset">0</VerticalOffset>
+</Location>
+<MonitorRole valueSpaceRef="/Valuespace/TTPAR_MonitorRole_Triple_Auto">Auto</MonitorRole>
+<RGBQuantizationRange valueSpaceRef="/Valuespace/TTPAR_RgbQuantizationRange">Full</RGBQuantizationRange>
+<Resolution valueSpaceRef="/Valuespace/TTPAR_ScreenSettings_4k_21_9_Auto">Auto</Resolution>
+</Connector>
+<Connector item="3" maxOccurrence="3">
+<CEC>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</CEC>
+<ContentType valueSpaceRef="/Valuespace/TTPAR_ContentType">Default</ContentType>
+<HDCPForce1_4 valueSpaceRef="/Valuespace/TTPAR_OnOff">On</HDCPForce1_4>
+<HDCPPolicy valueSpaceRef="/Valuespace/TTPAR_OnOff">On</HDCPPolicy>
+<Location>
+<HorizontalOffset valueSpaceRef="/Valuespace/STR_1_12_HorizontalOffset">1</HorizontalOffset>
+<VerticalOffset valueSpaceRef="/Valuespace/STR_1_12_VerticalOffset">0</VerticalOffset>
+</Location>
+<MonitorRole valueSpaceRef="/Valuespace/TTPAR_MonitorRole_Triple_Auto">Auto</MonitorRole>
+<RGBQuantizationRange valueSpaceRef="/Valuespace/TTPAR_RgbQuantizationRange">Full</RGBQuantizationRange>
+<Resolution valueSpaceRef="/Valuespace/TTPAR_ScreenSettings_4k_21_9_Auto">Auto</Resolution>
+</Connector>
+<MirroringType valueSpaceRef="/Valuespace/TTPAR_MirroringTypes">Multiscreen</MirroringType>
+<TouchInput>
+<ActivePenSupport valueSpaceRef="/Valuespace/TTPAR_TrueFalse">True</ActivePenSupport>
+<Mode valueSpaceRef="/Valuespace/TTPAR_EnabledDisabledAuto">Auto</Mode>
+</TouchInput>
+<Webcam>
+<USBMode valueSpaceRef="/Valuespace/TTPAR_WebcamUSBModes">OnStreaming</USBMode>
+</Webcam>
+</Output>
+<Presentation>
+<DefaultSource valueSpaceRef="/Valuespace/TTPAR_PresentationSources_6">2</DefaultSource>
+<Priority valueSpaceRef="/Valuespace/TTPAR_PresentationPri_def">Equal</Priority>
+</Presentation>
+<Selfview>
+<Default>
+<FullscreenMode valueSpaceRef="/Valuespace/TTPAR_OnOffCurrent">Current</FullscreenMode>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOffCurrentAuto">Auto</Mode>
+<OnMonitorRole valueSpaceRef="/Valuespace/TTPAR_MonitorRole_Dual_BasicCurrent">Current</OnMonitorRole>
+<PIPPosition valueSpaceRef="/Valuespace/TTPAR_PIPPositionCurrent">Current</PIPPosition>
+</Default>
+<OnCall>
+<Duration valueSpaceRef="/Valuespace/INT_1_60">5</Duration>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOffCurrentAuto">Auto</Mode>
+</OnCall>
+</Selfview>
+</Video>
+<VoiceControl>
+<Wakeword>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</Wakeword>
+</VoiceControl>
+<WebEngine>
+<Certificates>
+<RevocationChecks>
+<NetworkAccess valueSpaceRef="/Valuespace/TTPAR_AllowDeny">Allow</NetworkAccess>
+</RevocationChecks>
+</Certificates>
+<Features>
+<AllowDeviceCertificate valueSpaceRef="/Valuespace/TTPAR_TrueFalse">False</AllowDeviceCertificate>
+<GpuRasterization valueSpaceRef="/Valuespace/TTPAR_OnOffAuto">Auto</GpuRasterization>
+<LocalWebAppManagement valueSpaceRef="/Valuespace/TTPAR_WebAppManagement">Allowed</LocalWebAppManagement>
+<Peripherals>
+<AudioOutput valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</AudioOutput>
+<WebGL valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</WebGL>
+</Peripherals>
+<WebGL valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</WebGL>
+<Xapi>
+<Peripherals>
+<AllowedHosts>
+<Hosts valueSpaceRef="/Valuespace/STR_0_1024_NoFilt"/>
+</AllowedHosts>
+</Peripherals>
+</Xapi>
+</Features>
+<MinimumTLSVersion valueSpaceRef="/Valuespace/TTPAR_TLSVersions_min_10">TLSv1.2</MinimumTLSVersion>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+<RemoteDebugging valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</RemoteDebugging>
+<UseHttpProxy valueSpaceRef="/Valuespace/TTPAR_OnOff">On</UseHttpProxy>
+</WebEngine>
+<WebRTC>
+<Provider>
+<MicrosoftTeams>
+<CompatibilityMode valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</CompatibilityMode>
+</MicrosoftTeams>
+</Provider>
+</WebRTC>
+<Webex>
+<CloudProximity>
+<GuestShare valueSpaceRef="/Valuespace/TTPAR_AutoOff">Auto</GuestShare>
+<ManualPairing valueSpaceRef="/Valuespace/TTPAR_EnabledDisabled">Enabled</ManualPairing>
+</CloudProximity>
+<CustomerSatisfactionSurvey>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</CustomerSatisfactionSurvey>
+<DevicePersonalization>
+<TaskBasedSignIn valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</TaskBasedSignIn>
+</DevicePersonalization>
+<Hotdesking>
+<DefaultBookingEndTime valueSpaceRef="/Valuespace/INT_0_24">17</DefaultBookingEndTime>
+<UserAuthentication valueSpaceRef="/Valuespace/TTPAR_EnabledDisabled">Enabled</UserAuthentication>
+</Hotdesking>
+<Meetings>
+<AIAssistantAutoSummarize>
+<Available valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Available>
+</AIAssistantAutoSummarize>
+<CaptionCustomization>
+<FontColor valueSpaceRef="/Valuespace/TTPAR_CaptionFontColor">Light</FontColor>
+<FontSize valueSpaceRef="/Valuespace/TTPAR_CaptionFontSize">Small</FontSize>
+</CaptionCustomization>
+<HttpProxyForMedia>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoOff">Off</Mode>
+</HttpProxyForMedia>
+<MeetingChatNotifications>
+<Mode valueSpaceRef="/Valuespace/TTPAR_MeetingChatNotificationsMode">Preview</Mode>
+</MeetingChatNotifications>
+<MeetingChatPreview valueSpaceRef="/Valuespace/TTPAR_TrueFalse">True</MeetingChatPreview>
+</Meetings>
+<Privacy>
+<AllowUsageDataLogging valueSpaceRef="/Valuespace/TTPAR_TrueFalse">False</AllowUsageDataLogging>
+</Privacy>
+<Proximity>
+<Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+</Proximity>
+<UpgradeChannel valueSpaceRef="/Valuespace/STR_1_255_NoFilt">Stable</UpgradeChannel>
+</Webex>
+<Zoom>
+<AppExperience>
+<Mode valueSpaceRef="/Valuespace/TTPAR_AutoOff">Auto</Mode>
+</AppExperience>
+<DefaultDomain valueSpaceRef="/Valuespace/STR_1_256_NoFilt">zoomcrc.com</DefaultDomain>
+<DialStringOptions valueSpaceRef="/Valuespace/STR_0_200_NoFilt"/>
+<EnhancedCallControls valueSpaceRef="/Valuespace/TTPAR_EnabledDisabled">Enabled</EnhancedCallControls>
+</Zoom>
+</Configuration>
