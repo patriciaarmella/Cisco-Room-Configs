@@ -1,0 +1,47 @@
+<Configuration>
+
+  <Conference>
+    <DefaultCall>
+      <Protocol valueSpaceRef="/Valuespace/TTPAR_CallProtocol">Auto</Protocol>
+      <Rate valueSpaceRef="/Valuespace/INT_64_6000">6000</Rate>
+      <Webex>
+        <Rate valueSpaceRef="/Valuespace/INT_0_20000">20000</Rate>
+      </Webex>
+    </DefaultCall>
+  </Conference>
+
+  <NetworkServices>
+    <SIP>
+      <Mode valueSpaceRef="/Valuespace/TTPAR_OnOff">On</Mode>
+    </SIP>
+  </NetworkServices>
+
+  <Provisioning>
+    <Mode valueSpaceRef="/Valuespace/TTPAR_ProvisioningModes">Webex</Mode>
+  </Provisioning>
+
+  <SIP>
+    <Authentication>
+      <Password valueSpaceRef="/Valuespace/PASSWORD_0_128_NoFilt">ira0qxNPu7qWbVS3</Password>
+      <UserName valueSpaceRef="/Valuespace/STR_0_128_NoFilt">7fd0b2bb4d7a4894d1f2403d4c8c</UserName>
+    </Authentication>
+
+    <DefaultTransport valueSpaceRef="/Valuespace/TTPAR_SIP_DEF_TRNSP">TCP</DefaultTransport>
+
+    <DisplayName valueSpaceRef="/Valuespace/STR_0_550_NoFilt">Fawcett</DisplayName>
+
+    <Proxy item="1">
+      <Address valueSpaceRef="/Valuespace/STR_0_255_NoFilt">
+        sip.us-east-1.prod.n2p.io:6070
+      </Address>
+    </Proxy>
+
+    <TlsVerify valueSpaceRef="/Valuespace/TTPAR_OnOff">Off</TlsVerify>
+
+    <URI valueSpaceRef="/Valuespace/STR_0_255_NoFilt">
+      sip:7fd0b2bb4d7a4894d1f2403d4c8c@sip.us-east-1.prod.n2p.io
+    </URI>
+
+  </SIP>
+
+</Configuration>
